@@ -1,0 +1,596 @@
+[
+    {
+        "name": "Anadolu Medeniyetleri Müzesi",
+        "tag": "Osmanlı binasında arkeolojik sergiler",
+        "star": 4.7,
+        "comment": 5923
+    },
+    {
+        "name": "Anıtkabir",
+        "tag": "Türk önderinin mozolesi",
+        "star": 4.9,
+        "comment": 62878
+    },
+    {
+        "name": "Kocatepe Camii",
+        "tag": "Şehir merkezinde büyük cami",
+        "star": 4.7,
+        "comment": 6982
+    },
+    {
+        "name": "Etnoğrafya Müzesi",
+        "tag": "Müze",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Kızılay",
+        "tag": "Alışveriş",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Altınköy Açık Hava Müzesi",
+        "tag": "Açık hava müzesi ve müze",
+        "star": 4.4,
+        "comment": 5956
+    },
+    {
+        "name": "Atatürk Orman Çiftliği",
+        "tag": "Hayvanat bahçesi, orman ve tarih",
+        "star": 4.2,
+        "comment": 850
+    },
+    {
+        "name": "Wonderland Eurasia",
+        "tag": "Tema Parkı",
+        "star": 3.6,
+        "comment": 3223
+    },
+    {
+        "name": "Kurtuluş Savaşı Müzesi (I. TBMM Binası)",
+        "tag": "20. yüzyıl askeri koleksiyon müzesi",
+        "star": 4.8,
+        "comment": 1375
+    },
+    {
+        "name": "Monumentum Ancyranum",
+        "tag": "Augustus, tapınak ve tarih",
+        "star": 4.2,
+        "comment": 187
+    },
+    {
+        "name": "Hacı Bayram Camii",
+        "tag": "Kent simgesi niteliğinde Osmanlı camisi",
+        "star": 4.8,
+        "comment": 11664
+    },
+    {
+        "name": "Göksu Parkı",
+        "tag": "Göl bulunan doğal dinlenme parkı",
+        "star": 4.3,
+        "comment": 10549
+    },
+    {
+        "name": "Eymir Gölü",
+        "tag": "Göl",
+        "star": 4.5,
+        "comment": 1572
+    },
+    {
+        "name": "Mogan Gölü",
+        "tag": "Göl",
+        "star": 4.2,
+        "comment": 827
+    },
+    {
+        "name": "Aqua Vega Akvaryum",
+        "tag": "Akvaryum",
+        "star": 4.1,
+        "comment": 5058
+    },
+    {
+        "name": "Kızılay Meydanı",
+        "tag": "Park",
+        "star": 4.2,
+        "comment": 4110
+    },
+    {
+        "name": "Kuğulu Park",
+        "tag": "Oyun alanı ve kuğu göleti sunan park",
+        "star": 4.4,
+        "comment": 4213
+    },
+    {
+        "name": "Ankara Roma Hamamı",
+        "tag": "Roma hamamı ve açık hava müzesi",
+        "star": 4.1,
+        "comment": 436
+    },
+    {
+        "name": "Ulucanlar Cezaevi Müzesi",
+        "tag": "Müze",
+        "star": 4.6,
+        "comment": 6193
+    },
+    {
+        "name": "Resim Heykel Müzesi",
+        "tag": "Yerel sanat ve heykellerden oluşan müze",
+        "star": 4.4,
+        "comment": 315
+    },
+    {
+        "name": "Seğmenler Parkı",
+        "tag": "Oyun alanlı, yapraklarla kaplı park",
+        "star": 4.4,
+        "comment": 6145
+    },
+    {
+        "name": "Harikalar Diyarı",
+        "tag": "Park ve eğlence parkı",
+        "star": 4.3,
+        "comment": 9107
+    },
+    {
+        "name": "Rahmi M. Koç Müzesi Ankara",
+        "tag": "Müze",
+        "star": 4.8,
+        "comment": 2786
+    },
+    {
+        "name": "Günübirlik",
+        "tag": "İlgi Çekici Yer",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Cermodern",
+        "tag": "Eski demir yolu atölyesinde modern sanat",
+        "star": 4.4,
+        "comment": 2043
+    },
+    {
+        "name": "ELMADAĞ KAYAK MERKEZİ",
+        "tag": "Kayak merkezi, kayak ve kış sporları",
+        "star": 3.7,
+        "comment": 561
+    },
+    {
+        "name": "Ankara Botanik Parkı",
+        "tag": "Park",
+        "star": 4.4,
+        "comment": 848
+    },
+    {
+        "name": "Cumhuriyet Müzesi",
+        "tag": "Türkiye Cumhuriyeti Müzesi",
+        "star": 4.8,
+        "comment": 484
+    },
+    {
+        "name": "Güvenpark",
+        "tag": "Park ve anıt",
+        "star": 4.0,
+        "comment": 17450
+    },
+    {
+        "name": "MTA Genel Müdürlüğü Tabiat Tarihi Müzesi",
+        "tag": "Müze, doğa tarihi, doğa ve tarih",
+        "star": 4.7,
+        "comment": 3131
+    },
+    {
+        "name": "Erimtan Arkeoloji ve Sanat Müzesi Kültür Girişimi",
+        "tag": "Müze, sanat ve tarih",
+        "star": 4.5,
+        "comment": 666
+    },
+    {
+        "name": "Türk Hava Kuvvetleri Müzesi",
+        "tag": "Müze",
+        "star": 4.7,
+        "comment": 650
+    },
+    {
+        "name": "Arslanhane Camii",
+        "tag": "Cami",
+        "star": 4.9,
+        "comment": 249
+    },
+    {
+        "name": "Ters Ev",
+        "tag": "Eğlence Parkı Etkinliği",
+        "star": 3.7,
+        "comment": 735
+    },
+    {
+        "name": "Botanik Parkı",
+        "tag": "Park",
+        "star": 4.5,
+        "comment": 2083
+    },
+    {
+        "name": "Atatürk Bulvarı",
+        "tag": "Alışveriş, anıt ve tarih",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Keçiören Evcil Hayvanlar Parkı",
+        "tag": "Park ve bahçe",
+        "star": 4.2,
+        "comment": 3275
+    },
+    {
+        "name": "Atatürk Orman Çiftliği Hayvanat Bahçesi",
+        "tag": "Hayvanat bahçesi ve flamingo",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Mehmet Akif Ersoy Müze Evi",
+        "tag": "Müze",
+        "star": 4.7,
+        "comment": 1004
+    },
+    {
+        "name": "Altınpark",
+        "tag": "Turlar ve restoran bulunan yeşil park",
+        "star": 4.3,
+        "comment": 8792
+    },
+    {
+        "name": "Diyanet İşleri Başkanlığı",
+        "tag": "Tarih",
+        "star": 3.0,
+        "comment": 259
+    },
+    {
+        "name": "Ankara Zafer Anıtı",
+        "tag": "Anıt",
+        "star": 4.4,
+        "comment": 33
+    },
+    {
+        "name": "Pembe Köşk",
+        "tag": "Müze ve tarih",
+        "star": 4.6,
+        "comment": 269
+    },
+    {
+        "name": "Kartaltepe Kent Ormanı Mesire Alanı",
+        "tag": "Park",
+        "star": 4.2,
+        "comment": 986
+    },
+    {
+        "name": "Atatürk ve Kurtuluş Savaşı Müzesi",
+        "tag": "Müze",
+        "star": 4.8,
+        "comment": 394
+    },
+    {
+        "name": "Zırhlı Birlikler Okulu Hatıra Ormanı",
+        "tag": "Ulusal Orman",
+        "star": 4.1,
+        "comment": 359
+    },
+    {
+        "name": "Tacettin Sultan Cami",
+        "tag": "Cami",
+        "star": 4.8,
+        "comment": 294
+    },
+    {
+        "name": "Şengül Hamamı",
+        "tag": "Hamam",
+        "star": 4.2,
+        "comment": 452
+    },
+    {
+        "name": "Resim Ve Heykel Müzesi",
+        "tag": "Müze, resim ve sanat",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Gökyay Vakfı Satranç Müzesi",
+        "tag": "Müze",
+        "star": 4.7,
+        "comment": 520
+    },
+    {
+        "name": "Tabiat Tarihi Müzesi",
+        "tag": "Müze, doğa tarihi ve tarih",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Anıtkabir - Tandoğan Girişi",
+        "tag": "Müze",
+        "star": 4.9,
+        "comment": 1994
+    },
+    {
+        "name": "Estergon Kalesi Türk Kültür Merkezi",
+        "tag": "Tarih",
+        "star": 4.2,
+        "comment": 147
+    },
+    {
+        "name": "Tarihi Karacabey Hamamı",
+        "tag": "Tarih",
+        "star": 4.0,
+        "comment": 323
+    },
+    {
+        "name": "Ulus Atatürk Heykeli",
+        "tag": "Anıt",
+        "star": 4.4,
+        "comment": 11999
+    },
+    {
+        "name": "Çankaya Belediyesi Ahlatlıbel Spor Tesisleri",
+        "tag": "Resim",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Ahmet Hamdi Akseki Camii",
+        "tag": "Mimarlık",
+        "star": 4.8,
+        "comment": 1714
+    },
+    {
+        "name": "Evcil Hayvanlar Parkı",
+        "tag": "Bahçe",
+        "star": 4.0,
+        "comment": 414
+    },
+    {
+        "name": "Ali Dinçer Parkı",
+        "tag": "Park",
+        "star": 4.0,
+        "comment": 4
+    },
+    {
+        "name": "Ahlatlıbel Atatürk Parkı",
+        "tag": "Park",
+        "star": 4.6,
+        "comment": 762
+    },
+    {
+        "name": "Ankara Vakıf Eserleri Müzesi",
+        "tag": "Müze",
+        "star": 4.4,
+        "comment": 149
+    },
+    {
+        "name": "Lozan Parkı",
+        "tag": "Park",
+        "star": 4.4,
+        "comment": 1206
+    },
+    {
+        "name": "Melike Hatun Câmii",
+        "tag": "Cami",
+        "star": 4.8,
+        "comment": 1263
+    },
+    {
+        "name": "Çankaya Köşkü",
+        "tag": "Müze",
+        "star": 2.5,
+        "comment": 2
+    },
+    {
+        "name": "ODTÜ Bilim ve Teknoloji Müzesi",
+        "tag": "Müze ve bilim müzesi",
+        "star": 4.6,
+        "comment": 323
+    },
+    {
+        "name": "Club Watercity Aquapark",
+        "tag": "Su parkı",
+        "star": 3.9,
+        "comment": 494
+    },
+    {
+        "name": "50. Yıl Parkı",
+        "tag": "Geniş şehir manzaralı büyük park",
+        "star": 4.3,
+        "comment": 2810
+    },
+    {
+        "name": "Maltepe Camii",
+        "tag": "Cami",
+        "star": 4.7,
+        "comment": 749
+    },
+    {
+        "name": "Keçiören Belediyesi Deniz Dünyası",
+        "tag": "Akvaryum",
+        "star": 3.4,
+        "comment": 729
+    },
+    {
+        "name": "Kurtuluş Parkı",
+        "tag": "Park",
+        "star": 4.2,
+        "comment": 5345
+    },
+    {
+        "name": "Ak Parti Genel Merkezi",
+        "tag": "Siyasi Parti",
+        "star": 4.4,
+        "comment": 855
+    },
+    {
+        "name": "Kore'de Savaşan Türkler Anıtı",
+        "tag": "Anıt",
+        "star": 4.7,
+        "comment": 198
+    },
+    {
+        "name": "Cemre Parkı",
+        "tag": "Park",
+        "star": 3.8,
+        "comment": 1384
+    },
+    {
+        "name": "Zafer Park",
+        "tag": "Park",
+        "star": 4.6,
+        "comment": 375
+    },
+    {
+        "name": "Beştepe Millet Camii",
+        "tag": "Cami",
+        "star": 4.8,
+        "comment": 4185
+    },
+    {
+        "name": "Ulus gençlik parkı",
+        "tag": "Park",
+        "star": 4.0,
+        "comment": 1711
+    },
+    {
+        "name": "Akköprü",
+        "tag": "Köprü",
+        "star": 4.1,
+        "comment": 38
+    },
+    {
+        "name": "Ihlamur Vadisi",
+        "tag": "Bahçe",
+        "star": 4.3,
+        "comment": 528
+    },
+    {
+        "name": "Rahmi Koç Müzesi",
+        "tag": "Müze",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Kıbrıs Köyü Kanyonu",
+        "tag": "Kamp ve doğa",
+        "star": 4.1,
+        "comment": 139
+    },
+    {
+        "name": "Çansera Kent Bahçesi",
+        "tag": "Park",
+        "star": 4.5,
+        "comment": 1644
+    },
+    {
+        "name": "Hamamönü",
+        "tag": "Resim",
+        "star": 4.5,
+        "comment": 813
+    },
+    {
+        "name": "Türkiye İş Bankası İktisadi Bağımsızlık Müzesi",
+        "tag": "Müze",
+        "star": 5.0,
+        "comment": 13
+    },
+    {
+        "name": "Cumhuriyet Müzesi (II. TBMM Binası)",
+        "tag": "Müze",
+        "star": 4.8,
+        "comment": 3158
+    },
+    {
+        "name": "Jose Marti Parkı",
+        "tag": "Park",
+        "star": 4.1,
+        "comment": 111
+    },
+    {
+        "name": "İnsan Hakları Anıtı",
+        "tag": "Park",
+        "star": 3.9,
+        "comment": 67
+    },
+    {
+        "name": "Cumhuriyet Kulesi",
+        "tag": "Manzara seyir noktası",
+        "star": 3.5,
+        "comment": 22
+    },
+    {
+        "name": "Mustafa Ayaz Museum and Plastic Arts Center Foundation",
+        "tag": "Müze",
+        "star": 4.6,
+        "comment": 65
+    },
+    {
+        "name": "Hacı Bayram-ı Veli Türbesi",
+        "tag": "Tarihi Yer",
+        "star": 4.9,
+        "comment": 20
+    },
+    {
+        "name": "Atatürk kolibası",
+        "tag": "Tarihi Yer",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Oyuncak Müzesi",
+        "tag": "Müze",
+        "star": 4.1,
+        "comment": 144
+    },
+    {
+        "name": "Cumhurbaşkanlığı Atatürk Müze Köşk",
+        "tag": "Müze",
+        "star": 4.7,
+        "comment": 130
+    },
+    {
+        "name": "Esertepe Muhammed Ali Parkı",
+        "tag": "Park",
+        "star": 4.1,
+        "comment": 1487
+    },
+    {
+        "name": "Muhsin Yazıcıoğlu Kabri",
+        "tag": "Anıt",
+        "star": 4.9,
+        "comment": 915
+    },
+    {
+        "name": "Cin Ali",
+        "tag": "Müze",
+        "star": 4.5,
+        "comment": 37
+    },
+    {
+        "name": "Park Vadi",
+        "tag": "Park",
+        "star": 4.5,
+        "comment": 343
+    },
+    {
+        "name": "Yumurtatepe Tümülüsü",
+        "tag": "Tarihi Yer",
+        "star": 3.4,
+        "comment": 45
+    },
+    {
+        "name": "Sebahattin Yıldız Müzesi",
+        "tag": "Müze",
+        "star": 3.0,
+        "comment": 2
+    },
+    {
+        "name": "Yenişehir Hamamı",
+        "tag": "Turistik Yer",
+        "star": 3.9,
+        "comment": 307
+    }
+]
