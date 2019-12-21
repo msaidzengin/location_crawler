@@ -1,245 +1,1460 @@
 [
-    "Anıtkabir",
-    "Anadolu Medeniyetleri Müzesi",
-    "Rahmi M. Koç Müzesi",
-    "Ulucanlar Cezaevi Müzesi",
-    "Hamamönü- Altındağ",
-    "Eymir Gölü",
-    "Altınköy Açık Hava Müzesi",
-    "MTA Şehit Cuma Dağ Tabiat Tarihi Müzesi",
-    "Ankara Kalesi",
-    "ANKAmall Alışveriş Merkezi",
-    "Hacı Bayram Camisi",
-    "1. TBMM Kurtuluş Savaşı Müzesi",
-    "Kocatepe Camisi",
-    "Ahlatlıbel Tesisleri Parkı",
-    "Erimtan Arkeoloji ve Sanat Müzesi",
-    "Etnografya Müzesi",
-    "Ankara Kalesi",
-    "Aqua Vega Akvaryum",
-    "Hava Kuvvetleri Müzesi",
-    "II. Türkiye Büyük Millet Meclisi Cumhuriyet Müzesi",
-    "Mogan Gölü (Gölbaşı)",
-    "Nata Vega Outlet",
-    "Cepa Alışveriş Merkezi",
-    "Kentpark Alışveriş Merkezi",
-    "Anfa Altınpark",
-    "Gençlik Parkı",
-    "Armada Alışveriş ve İş Merkezi",
-    "Atakule",
-    "Kızılay Square",
-    "Metromall AVM",
-    "Goksu Park",
-    "Kuğulu Park",
-    "Harikalar Diyarı",
-    "CerModern",
-    "Ankara Devlet Resim ve Heykel Müzesi",
-    "Gordion Alışveriş Merkezi",
-    "Pirinç Han",
-    "Segmenler Parkı",
-    "Mehmet Akif Ersoy Evi",
-    "Pembe Köşk",
-    "Dikmen Vadisi Park",
-    "Gökyay Vakfı Satranç Müzesi",
-    "Kurtuluş Parkı",
-    "Atatürk Evi Müzesi",
-    "Wonderland Eurasia",
-    "PTT Pul Müzesi",
-    "Aslanhane Camisi",
-    "Botanik Parkı",
-    "Next Level AVM",
-    "Cer Modern",
-    "Gordion Müzesi",
-    "Beştepe Millet Camii",
-    "Congresium Ankara",
-    "Atatürk Orman Çiftliği",
-    "Altın Köşk Müzesi",
-    "Elmadağ Kayak Merkezi",
-    "Optimum Outlet ve Eğlence Merkezi",
-    "Tacettin Sultan Cami",
-    "Equestrian Statue of Kemal Ataturk",
-    "Antares Alışveriş Merkezi",
-    "Küçük Tiyatro",
-    "Suluhan Çarşısı",
-    "Cumhuriyet Müzesi",
-    "Maltepe Camii",
-    "Taurus AVM",
-    "Devlet Opera ve Balesi",
-    "Melike Hatun Camii",
-    "TepePrime",
-    "Atakule Alışveriş Merkezi",
-    "Karum İş ve Alışveriş Merkezi",
-    "Arcadium Alışveriş Merkezi",
-    "Başbuğ Alparslan Türkeş’in Anıt Mezarı",
-    "Cüneyt Gökçer Sahnesi",
-    "Deniz Dünyası",
-    "Devlet Mezarlığı Müzesi",
-    "Augustus Tapınağı",
-    "Ahmet Hamdi Akseki Camii",
-    "50. Yıl Parkı",
-    "Forum Ankara Outlet",
-    "Lozan Parkı",
-    "Sincan Evcil Hayvanlar Parki",
-    "Anatolium Alışveriş Merkezi Ankara",
-    "365 Alışveriş Merkezi",
-    "ODTÜ Bilim ve Teknoloji Müzesi",
-    "Roma Hamamları",
-    "Akün Sahnesi",
-    "MKE Sanayi ve Teknoloji Müzesi",
-    "Armada Alışveriş ve Ticaret Merkezi",
-    "Ankara Üniversitesi Eğitim Bilimleri Fakültesi Oyuncak Müzesi",
-    "Zafer Parkı",
-    "Vakıf Eserleri Müzesi",
-    "Ankuva Alışveriş Merkezi",
-    "Kurtboğazı Barajı",
-    "Roma Hamamı Açıkhava Müzesi",
-    "Jülien Sütunu",
-    "Roma Duvarı",
-    "Galleria Alışveriş Merkezi",
-    "Yeni Cami",
-    "Ankapark",
-    "Altındağ Belediyesi Şair ve Yazarlar Evi",
-    "Mavi Göl Barajı",
-    "Estergon Türk Kültür Merkezi",
-    "Altındağ Tiyatrosu",
-    "Doğramacızade Ali Sami Paşa Camii",
-    "Ulus Yeni Hal",
-    "İsmet İnönü Parkı",
-    "Devlet Demiryolları Müzesi",
-    "Galeri Siyah Beyaz",
-    "Ankara Bağevi",
-    "YDA Park Avenue Life",
-    "FTZ Alışveriş Merkezi",
-    "Ziraat Bankası Müzesi",
-    "Sakarya Meydan Muharebesi Milli Parkı",
-    "Akcenter AVM",
-    "Çan Tiyatrosu",
-    "Sarıkadı Camii",
-    "19 Mayıs Stadyumu",
-    "Ankara Palas",
-    "Abidin Paşa Merkez Cami",
-    "Ahielvan Cami",
-    "75.Yıl Hipodromu",
-    "Akkopru of Ankara",
-    "Ziraat Sahnesi",
-    "Nişantaşı Pazarı",
-    "Duatepe Anıtı",
-    "Musa aga camii",
-    "Şinasi Sahnesi",
-    "Club Watercity Aquapark",
-    "Yargitay",
-    "Batikent AVM",
-    "TRT Müzesi",
-    "8 Hubb Art Gallery",
-    "Mustafa Ayaz Müzesi ve Kültür Merkezi",
-    "Feza Gürsey Bilim Merkezi",
-    "Oda Tiyatrosu",
-    "Ankara Sanat Atölyesi",
-    "Dolphin Alışveriş Merkezi",
-    "Sanatolia Sahnesi",
-    "IC Sanat Galerisi",
-    "Metro Center Alışveriş Merkezi",
-    "Remains of St. Clement Church",
-    "Beytepe Alışveriş Merkezi",
-    "Müjdat Gezen Sanat Merkezi",
-    "Kelebekler Vadisi Tabiat Parkı",
-    "Goethe Institut",
-    "Meteoroloji Müzesi",
-    "Mahmud Hallac Camii",
-    "Hacı Musa Cami",
-    "Hacı Ayvaz Cami",
-    "Ihlamur Vadisi",
-    "Botanik Park",
-    "Azize Tereza Kilisesi",
-    "Alicin Deresi",
-    "Çankaya Belediyesi Çağdaş Sanatlar Merkezi",
-    "Galeri Artist",
-    "Tiyatro Tempo",
-    "Gendarmerie museum",
-    "Haydar Aliyev Parkı",
-    "Ankara Çağdaş Sanat Tiyatrosu",
-    "Ankara Sanat Tiyatrosu",
-    "Kadızade El Sanatları Galerisi",
-    "Galeri Nev",
-    "Atatürk Müze Köşkü",
-    "Galeri Kara",
-    "Minasera Alışveriş ve Yaşam Merkezi",
-    "Bilkent Tiyatrosu",
-    "Gözde Sanat Galerisi",
-    "Ankara Somut Olmayan Kulturel Miras Muzesi",
-    "Nazım Hikmet Kültür Merkezi",
-    "Galaxy Alışveriş Merkezi",
-    "Abdurrahman Kaplan Resim Evi",
-    "Jose Marti Parkı",
-    "Cetinkaya",
-    "Ankara Sanat Galerisi",
-    "Nisantası Pazarı",
-    "Artemis Sanat",
-    "Sakarya Sehitligi Zafer Anıtı Ve Müzesi",
-    "Galeri Soyut",
-    "Serhat Kılıç Sahne",
-    "Pilavoğlu Han",
-    "Galeri Sanatyapım",
-    "Podium AVM",
-    "Muhsin Ertuğrul Sahnesi",
-    "Dag Kizagi Park Kecioren",
-    "Şato Kalecik",
-    "Kuzu Effect",
-    "Yön Sanat Atölyesi",
-    "Doku Sanat Galerisi",
-    "Grup Sanat Galerisi",
-    "Arda Sanat Galerisi",
-    "Altındağ Belediyesi Sanat Galerisi",
-    "Maximum Alışveriş Merkezi",
-    "Nurol Sanat Galerisi",
-    "Ekin Kültür & Sanat Merkezi",
-    "Vakıfbank Atakule Sanat Galerisi",
-    "Tilki",
-    "Armoni Sanat Galerisi",
-    "Beyaz Sanat",
-    "Ar+Plus Sanat Galerisi",
-    "Fırça Sanat Evi",
-    "Galeri Polart",
-    "ODC Center Alışveriş Merkezi",
-    "Antigone Sanat Evi",
-    "Nisantası Pazarı",
-    "Arel Sanat Galerisi",
-    "Medya Sanat Galerisi",
-    "Divan Alışveriş Merkezi",
-    "Tiyatro Pembe Kurbağa",
-    "8 Hubb Sanat Galerisi",
-    "Malltepe Park Alışveriş ve Eğlence Merkezi",
-    "Kartaltepe Aquapark",
-    "One Tower Alışveriş Merkezi",
-    "Hacı Bayramı Veli'nin Doğduğu Ev",
-    "Ankara Üniversitesi Tarihi Müzesi",
-    "Artsürem Bilim Sanat",
-    "Sakarya Sehitligi Zafer Anıtı Ve Müzesi",
-    "Tatbikat Sahnesi",
-    "Malıköy Tren İstasyonu Müzesi",
-    "Birinci Peron Tiyatro",
-    "KAV Sanat Galerisi",
-    "Jandarma Muzesi",
-    "Hacettepe Sanat Müzesi",
-    "İlhan Sanat Evi",
-    "Pandora Sanat Atölyesi",
-    "Valör Resim Galerisi",
-    "Arete Sanat",
-    "Sevgi Sanat Galerisi",
-    "Hikmet Çetinkaya Resim Atölyesi",
-    "Doluca Bağcılık ve Şarapçılık",
-    "Ankara Bilim Ve Sanat Merkezi",
-    "Erenus Sanat Galerisi",
-    "Şefik Bursalı Müzesi",
-    "Aysel Gözübüyük Sanat Evi",
-    "Selami Yazıcı Sanat Galerisi",
-    "Galeri Akdeniz",
-    "Helikon Sanat Galerisi",
-    "Burhan Alkar Heykel Atölyesi",
-    "Nezih Danyal Karikatür Vakfı Galerisi",
-    "Parme Sanat Galerisi",
-    "Doğan Sanat Evi",
-    "Vinolus Şarapçılık",
-    "Yağmur Sanat Galerisi",
-    "Ankara Sanat Merkezi Kaktüs Kabare Tiyatrosu"
+    {
+        "name": "Anıtkabir",
+        "tag": "",
+        "star": -1,
+        "comment": 4344
+    },
+    {
+        "name": "Anadolu Medeniyetleri Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 1904
+    },
+    {
+        "name": "Rahmi M. Koç Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 1197
+    },
+    {
+        "name": "Ulucanlar Cezaevi Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 354
+    },
+    {
+        "name": "Hamamönü- Altındağ",
+        "tag": "",
+        "star": -1,
+        "comment": 979
+    },
+    {
+        "name": "Eymir Gölü",
+        "tag": "",
+        "star": -1,
+        "comment": 324
+    },
+    {
+        "name": "Altınköy Açık Hava Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 206
+    },
+    {
+        "name": "MTA Şehit Cuma Dağ Tabiat Tarihi Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 152
+    },
+    {
+        "name": "Ankara Kalesi",
+        "tag": "",
+        "star": -1,
+        "comment": 596
+    },
+    {
+        "name": "ANKAmall Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 252
+    },
+    {
+        "name": "Hacı Bayram Camisi",
+        "tag": "",
+        "star": -1,
+        "comment": 677
+    },
+    {
+        "name": "1. TBMM Kurtuluş Savaşı Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 186
+    },
+    {
+        "name": "Kocatepe Camisi",
+        "tag": "",
+        "star": -1,
+        "comment": 655
+    },
+    {
+        "name": "Ahlatlıbel Tesisleri Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 68
+    },
+    {
+        "name": "Erimtan Arkeoloji ve Sanat Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 167
+    },
+    {
+        "name": "Etnografya Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 183
+    },
+    {
+        "name": "Ankara Kalesi",
+        "tag": "",
+        "star": -1,
+        "comment": 867
+    },
+    {
+        "name": "Aqua Vega Akvaryum",
+        "tag": "",
+        "star": -1,
+        "comment": 285
+    },
+    {
+        "name": "Hava Kuvvetleri Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 64
+    },
+    {
+        "name": "II. Türkiye Büyük Millet Meclisi Cumhuriyet Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 105
+    },
+    {
+        "name": "Mogan Gölü (Gölbaşı)",
+        "tag": "",
+        "star": -1,
+        "comment": 75
+    },
+    {
+        "name": "Nata Vega Outlet",
+        "tag": "",
+        "star": -1,
+        "comment": 94
+    },
+    {
+        "name": "Cepa Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 83
+    },
+    {
+        "name": "Kentpark Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 84
+    },
+    {
+        "name": "Anfa Altınpark",
+        "tag": "",
+        "star": -1,
+        "comment": 66
+    },
+    {
+        "name": "Gençlik Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 350
+    },
+    {
+        "name": "Armada Alışveriş ve İş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 94
+    },
+    {
+        "name": "Atakule",
+        "tag": "",
+        "star": -1,
+        "comment": 132
+    },
+    {
+        "name": "Kızılay Square",
+        "tag": "",
+        "star": -1,
+        "comment": 165
+    },
+    {
+        "name": "Metromall AVM",
+        "tag": "",
+        "star": -1,
+        "comment": 31
+    },
+    {
+        "name": "Goksu Park",
+        "tag": "",
+        "star": -1,
+        "comment": 196
+    },
+    {
+        "name": "Kuğulu Park",
+        "tag": "",
+        "star": -1,
+        "comment": 72
+    },
+    {
+        "name": "Harikalar Diyarı",
+        "tag": "",
+        "star": -1,
+        "comment": 62
+    },
+    {
+        "name": "CerModern",
+        "tag": "",
+        "star": -1,
+        "comment": 121
+    },
+    {
+        "name": "Ankara Devlet Resim ve Heykel Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 76
+    },
+    {
+        "name": "Gordion Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 53
+    },
+    {
+        "name": "Pirinç Han",
+        "tag": "",
+        "star": -1,
+        "comment": 39
+    },
+    {
+        "name": "Segmenler Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 129
+    },
+    {
+        "name": "Mehmet Akif Ersoy Evi",
+        "tag": "",
+        "star": -1,
+        "comment": 42
+    },
+    {
+        "name": "Pembe Köşk",
+        "tag": "",
+        "star": -1,
+        "comment": 40
+    },
+    {
+        "name": "Dikmen Vadisi Park",
+        "tag": "",
+        "star": -1,
+        "comment": 147
+    },
+    {
+        "name": "Gökyay Vakfı Satranç Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 58
+    },
+    {
+        "name": "Kurtuluş Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 17
+    },
+    {
+        "name": "Atatürk Evi Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 78
+    },
+    {
+        "name": "Wonderland Eurasia",
+        "tag": "",
+        "star": -1,
+        "comment": 59
+    },
+    {
+        "name": "PTT Pul Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 70
+    },
+    {
+        "name": "Aslanhane Camisi",
+        "tag": "",
+        "star": -1,
+        "comment": 68
+    },
+    {
+        "name": "Botanik Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 18
+    },
+    {
+        "name": "Next Level AVM",
+        "tag": "",
+        "star": -1,
+        "comment": 49
+    },
+    {
+        "name": "Cer Modern",
+        "tag": "",
+        "star": -1,
+        "comment": 132
+    },
+    {
+        "name": "Gordion Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 72
+    },
+    {
+        "name": "Beştepe Millet Camii",
+        "tag": "",
+        "star": -1,
+        "comment": 16
+    },
+    {
+        "name": "Congresium Ankara",
+        "tag": "",
+        "star": -1,
+        "comment": 64
+    },
+    {
+        "name": "Atatürk Orman Çiftliği",
+        "tag": "",
+        "star": -1,
+        "comment": 104
+    },
+    {
+        "name": "Altın Köşk Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 8
+    },
+    {
+        "name": "Elmadağ Kayak Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 35
+    },
+    {
+        "name": "Optimum Outlet ve Eğlence Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 43
+    },
+    {
+        "name": "Tacettin Sultan Cami",
+        "tag": "",
+        "star": -1,
+        "comment": 16
+    },
+    {
+        "name": "Equestrian Statue of Kemal Ataturk",
+        "tag": "",
+        "star": -1,
+        "comment": 51
+    },
+    {
+        "name": "Antares Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 43
+    },
+    {
+        "name": "Küçük Tiyatro",
+        "tag": "",
+        "star": -1,
+        "comment": 31
+    },
+    {
+        "name": "Suluhan Çarşısı",
+        "tag": "",
+        "star": -1,
+        "comment": 8
+    },
+    {
+        "name": "Cumhuriyet Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 31
+    },
+    {
+        "name": "Maltepe Camii",
+        "tag": "",
+        "star": -1,
+        "comment": 40
+    },
+    {
+        "name": "Taurus AVM",
+        "tag": "",
+        "star": -1,
+        "comment": 19
+    },
+    {
+        "name": "Devlet Opera ve Balesi",
+        "tag": "",
+        "star": -1,
+        "comment": 14
+    },
+    {
+        "name": "Melike Hatun Camii",
+        "tag": "",
+        "star": -1,
+        "comment": 15
+    },
+    {
+        "name": "TepePrime",
+        "tag": "",
+        "star": -1,
+        "comment": 13
+    },
+    {
+        "name": "Atakule Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 19
+    },
+    {
+        "name": "Karum İş ve Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 45
+    },
+    {
+        "name": "Arcadium Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 44
+    },
+    {
+        "name": "Başbuğ Alparslan Türkeş’in Anıt Mezarı",
+        "tag": "",
+        "star": -1,
+        "comment": 4
+    },
+    {
+        "name": "Cüneyt Gökçer Sahnesi",
+        "tag": "",
+        "star": -1,
+        "comment": 40
+    },
+    {
+        "name": "Deniz Dünyası",
+        "tag": "",
+        "star": -1,
+        "comment": 19
+    },
+    {
+        "name": "Devlet Mezarlığı Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 15
+    },
+    {
+        "name": "Augustus Tapınağı",
+        "tag": "",
+        "star": -1,
+        "comment": 91
+    },
+    {
+        "name": "Ahmet Hamdi Akseki Camii",
+        "tag": "",
+        "star": -1,
+        "comment": 11
+    },
+    {
+        "name": "50. Yıl Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 46
+    },
+    {
+        "name": "Forum Ankara Outlet",
+        "tag": "",
+        "star": -1,
+        "comment": 32
+    },
+    {
+        "name": "Lozan Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 14
+    },
+    {
+        "name": "Sincan Evcil Hayvanlar Parki",
+        "tag": "",
+        "star": -1,
+        "comment": 17
+    },
+    {
+        "name": "Anatolium Alışveriş Merkezi Ankara",
+        "tag": "",
+        "star": -1,
+        "comment": 22
+    },
+    {
+        "name": "365 Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 41
+    },
+    {
+        "name": "ODTÜ Bilim ve Teknoloji Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 29
+    },
+    {
+        "name": "Roma Hamamları",
+        "tag": "",
+        "star": -1,
+        "comment": 73
+    },
+    {
+        "name": "Akün Sahnesi",
+        "tag": "",
+        "star": -1,
+        "comment": 21
+    },
+    {
+        "name": "MKE Sanayi ve Teknoloji Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 8
+    },
+    {
+        "name": "Armada Alışveriş ve Ticaret Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 20
+    },
+    {
+        "name": "Ankara Üniversitesi Eğitim Bilimleri Fakültesi Oyuncak Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 14
+    },
+    {
+        "name": "Zafer Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 14
+    },
+    {
+        "name": "Vakıf Eserleri Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 17
+    },
+    {
+        "name": "Ankuva Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 11
+    },
+    {
+        "name": "Kurtboğazı Barajı",
+        "tag": "",
+        "star": -1,
+        "comment": 16
+    },
+    {
+        "name": "Roma Hamamı Açıkhava Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 39
+    },
+    {
+        "name": "Jülien Sütunu",
+        "tag": "",
+        "star": -1,
+        "comment": 34
+    },
+    {
+        "name": "Roma Duvarı",
+        "tag": "",
+        "star": -1,
+        "comment": 18
+    },
+    {
+        "name": "Galleria Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 6
+    },
+    {
+        "name": "Yeni Cami",
+        "tag": "",
+        "star": -1,
+        "comment": 17
+    },
+    {
+        "name": "Ankapark",
+        "tag": "",
+        "star": -1,
+        "comment": 10
+    },
+    {
+        "name": "Altındağ Belediyesi Şair ve Yazarlar Evi",
+        "tag": "",
+        "star": -1,
+        "comment": 5
+    },
+    {
+        "name": "Mavi Göl Barajı",
+        "tag": "",
+        "star": -1,
+        "comment": 6
+    },
+    {
+        "name": "Estergon Türk Kültür Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 35
+    },
+    {
+        "name": "Altındağ Tiyatrosu",
+        "tag": "",
+        "star": -1,
+        "comment": 12
+    },
+    {
+        "name": "Doğramacızade Ali Sami Paşa Camii",
+        "tag": "",
+        "star": -1,
+        "comment": 6
+    },
+    {
+        "name": "Ulus Yeni Hal",
+        "tag": "",
+        "star": -1,
+        "comment": 6
+    },
+    {
+        "name": "İsmet İnönü Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 7
+    },
+    {
+        "name": "Devlet Demiryolları Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 15
+    },
+    {
+        "name": "Galeri Siyah Beyaz",
+        "tag": "",
+        "star": -1,
+        "comment": 15
+    },
+    {
+        "name": "Ankara Bağevi",
+        "tag": "",
+        "star": -1,
+        "comment": 13
+    },
+    {
+        "name": "YDA Park Avenue Life",
+        "tag": "",
+        "star": -1,
+        "comment": 5
+    },
+    {
+        "name": "FTZ Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 11
+    },
+    {
+        "name": "Ziraat Bankası Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 7
+    },
+    {
+        "name": "Sakarya Meydan Muharebesi Milli Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Akcenter AVM",
+        "tag": "",
+        "star": -1,
+        "comment": 8
+    },
+    {
+        "name": "Çan Tiyatrosu",
+        "tag": "",
+        "star": -1,
+        "comment": 5
+    },
+    {
+        "name": "Sarıkadı Camii",
+        "tag": "",
+        "star": -1,
+        "comment": 6
+    },
+    {
+        "name": "19 Mayıs Stadyumu",
+        "tag": "",
+        "star": -1,
+        "comment": 25
+    },
+    {
+        "name": "Ankara Palas",
+        "tag": "",
+        "star": -1,
+        "comment": 4
+    },
+    {
+        "name": "Abidin Paşa Merkez Cami",
+        "tag": "",
+        "star": -1,
+        "comment": 21
+    },
+    {
+        "name": "Ahielvan Cami",
+        "tag": "",
+        "star": -1,
+        "comment": 7
+    },
+    {
+        "name": "75.Yıl Hipodromu",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Akkopru of Ankara",
+        "tag": "",
+        "star": -1,
+        "comment": 38
+    },
+    {
+        "name": "Ziraat Sahnesi",
+        "tag": "",
+        "star": -1,
+        "comment": 8
+    },
+    {
+        "name": "Nişantaşı Pazarı",
+        "tag": "",
+        "star": -1,
+        "comment": 4
+    },
+    {
+        "name": "Duatepe Anıtı",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Musa aga camii",
+        "tag": "",
+        "star": -1,
+        "comment": 7
+    },
+    {
+        "name": "Şinasi Sahnesi",
+        "tag": "",
+        "star": -1,
+        "comment": 9
+    },
+    {
+        "name": "Club Watercity Aquapark",
+        "tag": "",
+        "star": -1,
+        "comment": 8
+    },
+    {
+        "name": "Yargitay",
+        "tag": "",
+        "star": -1,
+        "comment": 5
+    },
+    {
+        "name": "Batikent AVM",
+        "tag": "",
+        "star": -1,
+        "comment": 9
+    },
+    {
+        "name": "TRT Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "8 Hubb Art Gallery",
+        "tag": "",
+        "star": -1,
+        "comment": 7
+    },
+    {
+        "name": "Mustafa Ayaz Müzesi ve Kültür Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 5
+    },
+    {
+        "name": "Feza Gürsey Bilim Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 15
+    },
+    {
+        "name": "Oda Tiyatrosu",
+        "tag": "",
+        "star": -1,
+        "comment": 6
+    },
+    {
+        "name": "Ankara Sanat Atölyesi",
+        "tag": "",
+        "star": -1,
+        "comment": 5
+    },
+    {
+        "name": "Dolphin Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 13
+    },
+    {
+        "name": "Sanatolia Sahnesi",
+        "tag": "",
+        "star": -1,
+        "comment": 6
+    },
+    {
+        "name": "IC Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 8
+    },
+    {
+        "name": "Metro Center Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 8
+    },
+    {
+        "name": "Remains of St. Clement Church",
+        "tag": "",
+        "star": -1,
+        "comment": 7
+    },
+    {
+        "name": "Beytepe Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 4
+    },
+    {
+        "name": "Müjdat Gezen Sanat Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 6
+    },
+    {
+        "name": "Kelebekler Vadisi Tabiat Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 2
+    },
+    {
+        "name": "Goethe Institut",
+        "tag": "",
+        "star": -1,
+        "comment": 4
+    },
+    {
+        "name": "Meteoroloji Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 4
+    },
+    {
+        "name": "Mahmud Hallac Camii",
+        "tag": "",
+        "star": -1,
+        "comment": 4
+    },
+    {
+        "name": "Hacı Musa Cami",
+        "tag": "",
+        "star": -1,
+        "comment": 8
+    },
+    {
+        "name": "Hacı Ayvaz Cami",
+        "tag": "",
+        "star": -1,
+        "comment": 4
+    },
+    {
+        "name": "Ihlamur Vadisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Botanik Park",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Azize Tereza Kilisesi",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Alicin Deresi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Çankaya Belediyesi Çağdaş Sanatlar Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Galeri Artist",
+        "tag": "",
+        "star": -1,
+        "comment": 6
+    },
+    {
+        "name": "Tiyatro Tempo",
+        "tag": "",
+        "star": -1,
+        "comment": 5
+    },
+    {
+        "name": "Gendarmerie museum",
+        "tag": "",
+        "star": -1,
+        "comment": 7
+    },
+    {
+        "name": "Haydar Aliyev Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Ankara Çağdaş Sanat Tiyatrosu",
+        "tag": "",
+        "star": -1,
+        "comment": 4
+    },
+    {
+        "name": "Ankara Sanat Tiyatrosu",
+        "tag": "",
+        "star": -1,
+        "comment": 8
+    },
+    {
+        "name": "Kadızade El Sanatları Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Galeri Nev",
+        "tag": "",
+        "star": -1,
+        "comment": 2
+    },
+    {
+        "name": "Atatürk Müze Köşkü",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Galeri Kara",
+        "tag": "",
+        "star": -1,
+        "comment": 7
+    },
+    {
+        "name": "Minasera Alışveriş ve Yaşam Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Bilkent Tiyatrosu",
+        "tag": "",
+        "star": -1,
+        "comment": 2
+    },
+    {
+        "name": "Gözde Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Ankara Somut Olmayan Kulturel Miras Muzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Nazım Hikmet Kültür Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 6
+    },
+    {
+        "name": "Galaxy Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 4
+    },
+    {
+        "name": "Abdurrahman Kaplan Resim Evi",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Jose Marti Parkı",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Cetinkaya",
+        "tag": "",
+        "star": -1,
+        "comment": 2
+    },
+    {
+        "name": "Ankara Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Nisantası Pazarı",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Artemis Sanat",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Sakarya Sehitligi Zafer Anıtı Ve Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Galeri Soyut",
+        "tag": "",
+        "star": -1,
+        "comment": 2
+    },
+    {
+        "name": "Serhat Kılıç Sahne",
+        "tag": "",
+        "star": -1,
+        "comment": 2
+    },
+    {
+        "name": "Pilavoğlu Han",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Galeri Sanatyapım",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Podium AVM",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Muhsin Ertuğrul Sahnesi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Dag Kizagi Park Kecioren",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Şato Kalecik",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Kuzu Effect",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Yön Sanat Atölyesi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Doku Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Grup Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Arda Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Altındağ Belediyesi Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 2
+    },
+    {
+        "name": "Maximum Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Nurol Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 2
+    },
+    {
+        "name": "Ekin Kültür & Sanat Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 2
+    },
+    {
+        "name": "Vakıfbank Atakule Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Tilki",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Armoni Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Beyaz Sanat",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Ar+Plus Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Fırça Sanat Evi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Galeri Polart",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "ODC Center Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "Antigone Sanat Evi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Nisantası Pazarı",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Arel Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Medya Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Divan Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 2
+    },
+    {
+        "name": "Tiyatro Pembe Kurbağa",
+        "tag": "",
+        "star": -1,
+        "comment": 3
+    },
+    {
+        "name": "8 Hubb Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Malltepe Park Alışveriş ve Eğlence Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "Kartaltepe Aquapark",
+        "tag": "",
+        "star": -1,
+        "comment": 1
+    },
+    {
+        "name": "One Tower Alışveriş Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Hacı Bayramı Veli'nin Doğduğu Ev",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Ankara Üniversitesi Tarihi Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Artsürem Bilim Sanat",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Sakarya Sehitligi Zafer Anıtı Ve Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Tatbikat Sahnesi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Malıköy Tren İstasyonu Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Birinci Peron Tiyatro",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "KAV Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Jandarma Muzesi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Hacettepe Sanat Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "İlhan Sanat Evi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Pandora Sanat Atölyesi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Valör Resim Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Arete Sanat",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Sevgi Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Hikmet Çetinkaya Resim Atölyesi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Doluca Bağcılık ve Şarapçılık",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Ankara Bilim Ve Sanat Merkezi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Erenus Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Şefik Bursalı Müzesi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Aysel Gözübüyük Sanat Evi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Selami Yazıcı Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Galeri Akdeniz",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Helikon Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Burhan Alkar Heykel Atölyesi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Nezih Danyal Karikatür Vakfı Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Parme Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Doğan Sanat Evi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Vinolus Şarapçılık",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Yağmur Sanat Galerisi",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    },
+    {
+        "name": "Ankara Sanat Merkezi Kaktüs Kabare Tiyatrosu",
+        "tag": "",
+        "star": -1,
+        "comment": -1
+    }
 ]
