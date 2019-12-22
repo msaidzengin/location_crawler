@@ -10,7 +10,7 @@ import json
 def load_all_page(driver):
 
     time.sleep(3)
-    SCROLL_PAUSE_TIME = 1
+    SCROLL_PAUSE_TIME = 2
     images_data = []
     last_height = driver.execute_script("return document.body.scrollHeight")
 
