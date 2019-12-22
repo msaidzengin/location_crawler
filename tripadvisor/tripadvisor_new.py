@@ -19,7 +19,7 @@ def get_data(text):
     return data
 
 
-path = executable_path = r"/home/msaidzengin/chromedriver"
+path = r"/home/msaidzengin/chromedriver"
 url = "https://www.tripadvisor.com.tr/Attractions-g298656-Activities-Ankara.html#ATTRACTION_SORT_WRAPPER"
 result_name = "result_tripadvisor.json"
 

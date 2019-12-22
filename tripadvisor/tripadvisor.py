@@ -1,7 +1,7 @@
 from selenium import webdriver
 import json
 
-path = executable_path = r"/home/msaidzengin/chromedriver"
+path = r"/home/msaidzengin/chromedriver"
 url = "https://www.tripadvisor.com.tr/Attractions-g298656-Activities-Ankara.html#ATTRACTION_SORT_WRAPPER"
 result_name = "result_tripadvisor.json"
 
